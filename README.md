@@ -1,5 +1,5 @@
 # Simple Shell Project
-![shell](https://user-images.githubusercontent.com/102301571/173293857-7df7a86c-87d8-4093-a9a7-640055004088.jpg)
+![Shell x](https://user-images.githubusercontent.com/102301571/173294838-4222f461-0a93-4fba-aa9c-f917277b109b.jpg)
 # Overview
 ## Write a simple UNIX command interpreter.
 #  Aim
