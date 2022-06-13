@@ -1,4 +1,4 @@
-# Simle Shell Project
+# Simple Shell Project
 ![image](https://user-images.githubusercontent.com/102301571/173282677-62f49818-380c-4628-87ee-66e57b8fcb47.png)
 # Overview
 ## Write a simple UNIX command interpreter.
