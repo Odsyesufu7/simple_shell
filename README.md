@@ -1,5 +1,5 @@
 # Simple Shell Project
-https://github.com/Odsyesufu7/simple_shell/blob/main/simple_shell_image.jpg?raw=true
+![shell](https://user-images.githubusercontent.com/102301571/173293857-7df7a86c-87d8-4093-a9a7-640055004088.jpg)
 # Overview
 ## Write a simple UNIX command interpreter.
 #  Aim
