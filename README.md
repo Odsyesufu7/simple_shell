@@ -14,7 +14,7 @@
 * Who is Ken Thompson?
   Answer: There are many meaning to who Ken Thompson is, but Kenneth Lane Thompson is an American pioneer of computer science. Thompson worked at Bell Labs for most     of his career where he designd and implemented the original Unix operating system.
 * How does a shell work?
-  Answer: Shell corresponds in the computer world to a command intrpreter where the usr has an available interface (CLI, Command-Line Interface), through which he has   the possibility of accessing services of the operating system as well as executing or invoking programs
+  Answer: Shell corresponds in the computer world to a command intrpreter where the user has an available interface (CLI, Command-Line Interface), through which he     has   the possibility of accessing services of the operating system as well as executing or invoking programs
 * What is a pid and a ppid?
   Answer: PID stands for Process ID, which means Identification Number for currently running process in Memory. while
   PPID stands for Parent Process ID, which means Parent Process is the responsible for creating the current process(Child Process). Through Parent Process, The child   process will be created.
