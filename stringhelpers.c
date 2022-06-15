@@ -1,5 +1,5 @@
 
-#include "holberton.h"
+#include "shell.h"
 /**
  * _strdup - duplicates a string
  * @str: pointer to string to duplicate
