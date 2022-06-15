@@ -5,5 +5,5 @@ that makes computing operations smooth, fast and well deserving during coding an
 
 ![Shell x](https://user-images.githubusercontent.com/102301571/173858837-2f80507b-03d2-4f44-93a9-850c39b62137.jpg)
 ## Contributors:
-- Oyinmaia
+- Oyinmia
 - Odsyesufu7
